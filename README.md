@@ -29,9 +29,3 @@ I am currently learning some development basics (as a beginner) to better serve 
 - Bash: to improve efficiency with useful commands
 - JavaScript: to better understand the Docusaurus framework
 - GitHub Actions: to automate workflows
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=vickyhella&theme=gruvbox&hide=stars" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vickyhella&theme=gruvbox" height="160" />
-
-![GitHub last commit](https://img.shields.io/github/last-commit/vickyhella/vickyhella)
