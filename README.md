@@ -2,7 +2,7 @@
 
 I'm a Technical Writer at [SUSE](https://www.suse.com/). Everything here is about documentation and translation.
 
-To put what I've learned into practice, I built [my own website](https://vickyhella.github.io/).
+To put what I've learned into practice and test different features, I built [my own website](https://vickyhella.github.io/).
 
 ## Working On
 
